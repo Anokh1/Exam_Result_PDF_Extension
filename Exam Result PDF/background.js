@@ -4,8 +4,8 @@ browser.browserAction.onClicked.addListener(() => {
       headerLeft: '',
       footerRight: '',      
       edgeLeft: 0.1,
-      edgeBottom: 0.1
-
+      edgeBottom: 0.1,
+      toFileName: "Exam_Result"
     })
       
       .then((status) => {

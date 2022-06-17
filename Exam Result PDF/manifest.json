@@ -3,12 +3,11 @@
     "version":"1.0",
     "name":"Exam_Result_PDF_Extension",
     "icons": {
-        "64": "icons/icon16.png"
+        "64": "icons/Exam_Result_PDF_icon64.png"
     },
     "browser_action":{
         "default_icon":{
-          "19":"icons/icon16.png",
-          "38":"icons/icon16.png"
+          "64":"icons/Exam_Result_PDF_icon64.png"
         }
     },
     "content_scripts":[
